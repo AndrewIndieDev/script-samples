@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vrconcepts.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\andre\\Documents\\Unity Projects\\VR Concepts\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR Concepts [Testing]"
+        }
+      }
+    }
+  ]
+}
